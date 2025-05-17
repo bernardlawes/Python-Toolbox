@@ -1,3 +1,10 @@
+# Create a range of prime numbers between 1 to n
+# key thing is the filter function, The Filter function returns an iterator yielding those items of 
+# iterable for which function(item) is true. If function is None, return the items that are true.
+# This a a more efficient approach to the more naïve or "alternative" options like nested loops or 
+# list comprehensions with repeated work
+
+
 # Create a range of numbers from 1 to 999
 nums = range(1, 100)
 

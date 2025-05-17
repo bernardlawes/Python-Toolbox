@@ -1,5 +1,6 @@
-# Lambda functions are small anonymous functions that can have any number of arguments, but can only have one expression.
-# Lambda functions can be used to replace simple functions that are only used once in a program.
+# Rather than build a function that is used only once, Lambda functions are small anonymous functions 
+# that can have any number of arguments, only have one expression, and  used to replace simple functions 
+# that are only used once in a program.
 
 # List of cars with details (brand, model, year, price, mileage)
 cars = [
