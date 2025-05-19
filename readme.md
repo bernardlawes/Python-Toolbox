@@ -45,16 +45,9 @@ python main.py --steps gray blur canny
 │   │   ├── camera_edge
 │   │   │   ├── __init__.py
 │   │   │   ├── __main__.py
-│   │   │   ├── __pycache__
-│   │   │   │   ├── __init__.cpython-311.pyc
-│   │   │   │   ├── detector.cpython-311.pyc
-│   │   │   │   └── utils.cpython-311.pyc
 │   │   │   ├── detector.py
 │   │   │   ├── tools
 │   │   │   │   ├── __init__.py
-│   │   │   │   ├── __pycache__
-│   │   │   │   │   ├── __init__.cpython-311.pyc
-│   │   │   │   │   └── file_tools.cpython-311.pyc
 │   │   │   │   └── file_tools.py
 │   │   │   └── utils.py
 │   │   ├── main.py
