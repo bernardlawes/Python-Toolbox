@@ -37,34 +37,6 @@ cd python-toolbox
 pip install -r requirements.txt
 python main.py --steps gray blur canny
 
-├── Mathematics
-│   ├── lamda_function.py
-│   └── primes_in_range.py
-├── Webcam-Class
-│   ├── Packaged
-│   │   ├── camera_edge
-│   │   │   ├── __init__.py
-│   │   │   ├── __main__.py
-│   │   │   ├── detector.py
-│   │   │   ├── tools
-│   │   │   │   ├── __init__.py
-│   │   │   │   └── file_tools.py
-│   │   │   └── utils.py
-│   │   ├── main.py
-│   │   └── readme.txt
-│   ├── Standalones
-│   │   ├── Basic
-│   │   │   └── main.py
-│   │   ├── Moderate
-│   │   │   └── main.py
-│   │   ├── Pipeline
-│   │   │   └── main.py
-│   │   └── readme.txt
-│   └── readme.txt
-├── bonsai.py
-├── readme.md
-└── tree.py
-
 🤝 Contributing
 Have a useful snippet, vision trick, or structural pattern to share? PRs and issues are welcome.
 
@@ -73,3 +45,22 @@ MIT License — use freely, build boldly.
 
 💡 Author Notes
 This repo focuses on readable, modular, and production-friendly Python for real-world computer vision pipelines. Designed to grow with you.
+
+
+├── Mathematics
+├── Webcam-Class
+│   ├── Packaged
+│   │   ├── camera_edge
+│   │   │   ├── tools
+│   │   │   └── utils.py
+│   │   ├── main.py
+│   │   └── readme.txt
+│   ├── Standalones
+│   │   ├── Basic
+│   │   ├── Moderate
+│   │   ├── Pipeline
+│   │   └── readme.txt
+│   └── readme.txt
+├── bonsai.py
+├── readme.md
+└── tree.py
