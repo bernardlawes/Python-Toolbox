@@ -51,15 +51,10 @@ This repo focuses on readable, modular, and production-friendly Python for real-
 ├── Webcam-Class
 │   ├── Packaged
 │   │   ├── camera_edge
-│   │   │   ├── tools
-│   │   │   └── utils.py
-│   │   ├── main.py
-│   │   └── readme.txt
 │   ├── Standalones
 │   │   ├── Basic
 │   │   ├── Moderate
 │   │   ├── Pipeline
-│   │   └── readme.txt
 │   └── readme.txt
 ├── bonsai.py
 ├── readme.md
