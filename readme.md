@@ -18,9 +18,8 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 ![Webcam Processing Pipeline](images/demo_webcam_pipeline.png)
 
 > Grayscale → Blur → Canny Edge Detection in real time.
-<br/>
-```bash
-python main.py --steps gray blur canny
+
+> python main.py --steps gray blur canny
 
 ---
 
