@@ -19,7 +19,8 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 
 > Grayscale → Blur → Canny Edge Detection in real time.
 <br/>
-> python main.py --steps gray blur canny
+```python
+python main.py --steps gray blur canny
 
 ---
 
