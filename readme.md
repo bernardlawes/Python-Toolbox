@@ -18,6 +18,7 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 ![Webcam Processing Pipeline](images/demo_webcam_pipeline.png)
 
 > Grayscale → Blur → Canny Edge Detection in real time.
+> python main.py --steps gray blur canny
 
 ---
 
@@ -31,10 +32,10 @@ def build_pipeline(self, steps):
     }
     return [step_map[name] for name in steps if name in step_map]
 
-```bash
-python main.py --steps gray blur canny
 
-```bash
+
+
+🤝 Installation
 git clone https://github.com/yourusername/python-toolbox.git
 cd python-toolbox
 pip install -r requirements.txt
