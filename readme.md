@@ -31,7 +31,10 @@ def build_pipeline(self, steps):
     }
     return [step_map[name] for name in steps if name in step_map]
 
+```bash
+python main.py --steps gray blur canny
 
+```bash
 git clone https://github.com/yourusername/python-toolbox.git
 cd python-toolbox
 pip install -r requirements.txt
