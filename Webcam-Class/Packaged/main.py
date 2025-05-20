@@ -1,5 +1,5 @@
 # main.py (outside the package folder)
-from camera_edge.detector import CameraEdgeDetector
+from camera_edge.processor import CameraEdgeDetector
 from camera_edge.tools.file_tools import list_images
 from camera_edge import __version__
 
